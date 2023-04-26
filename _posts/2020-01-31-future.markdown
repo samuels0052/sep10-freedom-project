@@ -6,5 +6,32 @@ date: 2020-01-31 10:45:13 -0400
 background: '/img/posts/future.jpeg'
 ---
 
-### Future
+# Future
+##### Virtual dentistry
+* A robot controlled by a dentist performs the dental treatments.
+* The robot will automatically step away from the patient if the connection link goes down between the dentist and the robot.
+* The dentist will have full control but the Robot can disobey orders for patient safety.
+* Dentist wears VR glasses that also display patient data.
+* Would be expensive to get a robot because of all the safety features.
+
+##### No pain pill
+* Analyzes the patient mouth to determine the right amount of antithetic to reliever.
+* Can be controlled by computer to prevent overdoses.
+
+##### AI Examiner
+* An app that can use ai to tell patients if they need to go to a dental office.
+* Would have a full mouthpiece that transmits data.
+* Would let patients know if they need a cleaning.
+* Will tell patients the state of their teeth.
+
+##### 3d Printed Crowns
+* Crowns are still made out of porcelain but 3d printed to make the cost cheaper.
+* Wouldn’t require as much work from a technician.
+* Would be more time efficent.
+
+##### Tooth Save Medicine
+* Special medicine that can kill tooth bacteria without the need for a cavity to be removed or composite filling.
+* The body would just take care of the damaged tooth and heal it.
+
+<br>
 <img src="../../../img/posts/future.jpeg" height="69" width="69">
