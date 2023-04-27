@@ -2,9 +2,8 @@ title:              Dentistry
 email:              samuels0052@hstat.org
 description:        Freedom Project
 author:             Samuel Sharivker
-baseurl:            "/sep10-freedom-project/src"
+baseurl:            "/sep10-freedom-project"
 url:                "https://samuels0052.github.io"
-include: [_posts]
 
 # Social Profiles
 twitter_username:
