@@ -4,6 +4,7 @@ description:        Freedom Project
 author:             Samuel Sharivker
 baseurl:            "/sep10-freedom-project/src"
 url:                "https://samuels0052.github.io"
+include: [_posts]
 
 # Social Profiles
 twitter_username:
