@@ -10,3 +10,8 @@
     * 1840, Baltimore College of Dental Surgery opened and became the first dental school.
     * 1873, Colgate began to mass produce toothpaste.
     * 1896, Dr Otto Walkhoff created the first dental x-ray.
+    * 1911, The U.S. Army Dental Corps is created.
+    * 1913, Fones Clinic For Dental Hygienists in Bridgeport, Connecticut became the world's first school for dental hygienists.
+    * 1930, The American Board of Orthodontics was created and became the first dental specialty.
+    * 1957, John Borden created a modern high speed dental drill which spined at a speed of 300,000 RPM.
+    * 1960, It became common practice for a dentist and dental assistant to work together during a patient visit. This made treatments faster and more efficent.
