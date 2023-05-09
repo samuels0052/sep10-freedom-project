@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/sep10-freedom-project/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/sep10-freedom-project/" rel="alternate" type="text/html" /><updated>2023-05-05T23:51:36-04:00</updated><id>http://localhost:4000/sep10-freedom-project/feed.xml</id><title type="html">Dentistry</title><subtitle>Freedom Project</subtitle><author><name>Samuel Sharivker</name></author><entry><title type="html">Future Technology</title><link href="http://localhost:4000/sep10-freedom-project/2020/01/31/future.html" rel="alternate" type="text/html" title="Future Technology" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sep10-freedom-project/2020/01/31/future</id><content type="html" xml:base="http://localhost:4000/sep10-freedom-project/2020/01/31/future.html"><![CDATA[<h1 id="future">Future</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/sep10-freedom-project/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/sep10-freedom-project/" rel="alternate" type="text/html" /><updated>2023-05-08T22:49:19-04:00</updated><id>http://localhost:4000/sep10-freedom-project/feed.xml</id><title type="html">Dentistry</title><subtitle>Freedom Project</subtitle><author><name>Samuel Sharivker</name></author><entry><title type="html">Future Technology</title><link href="http://localhost:4000/sep10-freedom-project/2020/01/31/future.html" rel="alternate" type="text/html" title="Future Technology" /><published>2020-01-31T09:45:13-05:00</published><updated>2020-01-31T09:45:13-05:00</updated><id>http://localhost:4000/sep10-freedom-project/2020/01/31/future</id><content type="html" xml:base="http://localhost:4000/sep10-freedom-project/2020/01/31/future.html"><![CDATA[<h1 id="future">Future</h1>
 <h5 id="virtual-dentistry">Virtual dentistry</h5>
 <ul>
   <li>A robot controlled by a dentist performs the dental treatments.</li>
   <li>The robot will automatically step away from the patient if the connection link goes down between the dentist and the robot.</li>
   <li>The dentist will have full control but the Robot can disobey orders for patient safety.</li>
   <li>Dentist wears VR glasses that also display patient data.</li>
-  <li>Would be expensive to get a robot because of all the safety features.</li>
+  <li>Would be expensive to get a robot because of all the safety features. <br />
+<img src="../../../img/posts/future/dental-robot.jpg" class="img-fluid" width="500" /></li>
 </ul>
 
 <h5 id="no-pain-pill">No pain pill</h5>
 <ul>
   <li>Analyzes the patient mouth to determine the right amount of antithetic to reliever.</li>
-  <li>Can be controlled by computer to prevent overdoses.</li>
+  <li>Can be controlled by computer to prevent overdoses. <br />
+<img src="../../../img/posts/future/pill.png" class="img-fluid" width="300" /></li>
 </ul>
 
 <h5 id="ai-examiner">AI Examiner</h5>
@@ -19,37 +21,39 @@
   <li>An app that can use ai to tell patients if they need to go to a dental office.</li>
   <li>Would have a full mouthpiece that transmits data.</li>
   <li>Would let patients know if they need a cleaning.</li>
-  <li>Will tell patients the state of their teeth.</li>
+  <li>Will tell patients the state of their teeth. <br />
+<img src="../../../img/posts/future/ai-app.jpg" class="img-fluid" width="500" /></li>
 </ul>
 
-<h5 id="3d-printed-crowns">3d Printed Crowns</h5>
+<h5 id="instant-3d-printed-crowns">Instant 3D Printed Crowns</h5>
 <ul>
-  <li>Crowns are still made out of porcelain but 3d printed to make the cost cheaper.</li>
+  <li>Crowns are still made out of porcelain but 3D printed to make the cost cheaper.</li>
   <li>Wouldn’t require as much work from a technician.</li>
-  <li>Would be more time efficent.</li>
+  <li>Would be more time efficent because created instantly. <br />
+<img src="../../../img/posts/future/3d-printed-crowns.jpg" class="img-fluid" width="500" /></li>
 </ul>
 
 <h5 id="tooth-save-medicine">Tooth Save Medicine</h5>
 <ul>
   <li>Special medicine that can kill tooth bacteria without the need for a cavity to be removed or composite filling.</li>
-  <li>The body would just take care of the damaged tooth and heal it.</li>
-</ul>
-
-<p><br />
-<img src="../../../img/posts/future.jpeg" height="69" width="69" /></p>]]></content><author><name>Samuel Sharivker</name></author><summary type="html"><![CDATA[Future Virtual dentistry A robot controlled by a dentist performs the dental treatments. The robot will automatically step away from the patient if the connection link goes down between the dentist and the robot. The dentist will have full control but the Robot can disobey orders for patient safety. Dentist wears VR glasses that also display patient data. Would be expensive to get a robot because of all the safety features.]]></summary></entry><entry><title type="html">Hardware</title><link href="http://localhost:4000/sep10-freedom-project/2020/01/30/old-hardware.html" rel="alternate" type="text/html" title="Hardware" /><published>2020-01-30T22:45:13-05:00</published><updated>2020-01-30T22:45:13-05:00</updated><id>http://localhost:4000/sep10-freedom-project/2020/01/30/old-hardware</id><content type="html" xml:base="http://localhost:4000/sep10-freedom-project/2020/01/30/old-hardware.html"><![CDATA[<h1 id="hardware">Hardware</h1>
+  <li>The body would just take care of the damaged tooth and heal it. <br />
+<img src="../../../img/posts/future/tooth-save-medicine.png" class="img-fluid" width="500" /></li>
+</ul>]]></content><author><name>Samuel Sharivker</name></author><summary type="html"><![CDATA[Future Virtual dentistry A robot controlled by a dentist performs the dental treatments. The robot will automatically step away from the patient if the connection link goes down between the dentist and the robot. The dentist will have full control but the Robot can disobey orders for patient safety. Dentist wears VR glasses that also display patient data. Would be expensive to get a robot because of all the safety features.]]></summary></entry><entry><title type="html">Hardware</title><link href="http://localhost:4000/sep10-freedom-project/2020/01/30/old-hardware.html" rel="alternate" type="text/html" title="Hardware" /><published>2020-01-30T22:45:13-05:00</published><updated>2020-01-30T22:45:13-05:00</updated><id>http://localhost:4000/sep10-freedom-project/2020/01/30/old-hardware</id><content type="html" xml:base="http://localhost:4000/sep10-freedom-project/2020/01/30/old-hardware.html"><![CDATA[<h1 id="hardware">Hardware</h1>
 <h5 id="radiographic-x-ray-35-130">Radiographic X-Ray $35-130</h5>
 <ul>
   <li>Used to observe tooth structure, bone damage, tooth positions, etc</li>
   <li>Can be used to determine the cause of tooth pain.</li>
   <li>Typically panoramic X Rays are used to check for wisdom teeth.</li>
-  <li>Expose people to small amounts of radiation.</li>
+  <li>Expose people to small amounts of radiation. <br />
+<img src="../../../img/posts/hardware/xray.jpg" class="img-fluid" width="500" /></li>
 </ul>
 
 <h5 id="resin-composite-fillings-150-per-tooth">Resin Composite Fillings $150 per tooth</h5>
 <ul>
   <li>Composite fillings are used in the treatment of cavities.  After bacteria and decayed structure is removed it is filled with an air-tight filling to prevent any further bacteria.</li>
   <li>Can last for up to 10 decades which makes them cost-efficient.</li>
-  <li>Typically can be done in 1 visit.</li>
+  <li>Typically can be done in 1 visit. <br />
+<img src="../../../img/posts/hardware/fillings.png" class="img-fluid" width="500" /></li>
 </ul>
 
 <h5 id="crowns-500-3000">Crowns $500-3,000</h5>
@@ -58,7 +62,8 @@
   <li>Can last 20-30 years.</li>
   <li>Normally take 3 visits (prep, impression, seating of the permanent crown).</li>
   <li>Can be expensive.</li>
-  <li>Can look completely natural and is very efficient.</li>
+  <li>Can look completely natural and is very efficient. <br />
+<img src="../../../img/posts/hardware/dental-crowns.jpg" class="img-fluid" width="500" /></li>
 </ul>
 
 <h5 id="dentures-1500-15000">Dentures $1500-15,000</h5>
@@ -66,7 +71,8 @@
   <li>An appliance inserted into the mouth that replaces natural teeth.</li>
   <li>Last resort treatment after natural teeth are gone.</li>
   <li>Can be fit securely with implants placed into the mouth.</li>
-  <li>Wear and tear will happen over time.</li>
+  <li>Wear and tear will happen over time. <br />
+<img src="../../../img/posts/hardware/implant-denture.jpg" class="img-fluid" width="500" /></li>
 </ul>]]></content><author><name>Samuel Sharivker</name></author><summary type="html"><![CDATA[Hardware Radiographic X-Ray $35-130 Used to observe tooth structure, bone damage, tooth positions, etc Can be used to determine the cause of tooth pain. Typically panoramic X Rays are used to check for wisdom teeth. Expose people to small amounts of radiation.]]></summary></entry><entry><title type="html">Software</title><link href="http://localhost:4000/sep10-freedom-project/2020/01/29/old-software.html" rel="alternate" type="text/html" title="Software" /><published>2020-01-29T22:45:13-05:00</published><updated>2020-01-29T22:45:13-05:00</updated><id>http://localhost:4000/sep10-freedom-project/2020/01/29/old-software</id><content type="html" xml:base="http://localhost:4000/sep10-freedom-project/2020/01/29/old-software.html"><![CDATA[<h1 id="software">Software</h1>
 <h5 id="dds-gp-400-one-time"><a href="https://ddsgp.com/mhome.html" target="_blank">DDS GP</a> $400 one time</h5>
 <ul>
@@ -74,7 +80,8 @@
   <li>Shows different conditions and how they are treated.</li>
   <li>Uses realistic images of X-rays and the mouth in order to be accurate.</li>
   <li>Allows you to create custom treatment plans.</li>
-  <li>Available on iPhone and iPad.</li>
+  <li>Available on iPhone and iPad. <br />
+<img src="../../../img/posts/software/ddsgp.jpg" class="img-fluid" width="500" /></li>
 </ul>
 
 <h5 id="planmeca-romexis-3d-imaging-49-200-per-month-depending-on-plan"><a href="https://www.planmeca.com/software/software-modules/planmeca-romexis-3d-imaging/" target="_blank">Planmeca Romexis 3D imaging</a> $49-200 per month depending on plan</h5>
@@ -83,7 +90,8 @@
   <li>Can be used to educate patient on the process of their care.</li>
   <li>Allows for different X-ray color options.</li>
   <li>Has support for 3d photos.</li>
-  <li>Available for windows and mac.</li>
+  <li>Available for windows and mac. <br />
+<img src="../../../img/posts/software/planmeca-romexis.jpg" class="img-fluid" width="500" /></li>
 </ul>
 
 <h5 id="softdent-no-official-pricing"><a href="https://gosensei.com/pages/softdent-a-sensei-product" target="_blank">Softdent</a> (no official pricing)</h5>
@@ -93,5 +101,6 @@
   <li>Monitor lab cases.</li>
   <li>Keep a record of patient transactions.</li>
   <li>Quality support without having to pay extra.</li>
-  <li>Available on windows and mac.</li>
+  <li>Available on windows and mac. <br />
+<img src="../../../img/posts/software/softdent.jpg" class="img-fluid" width="500" /></li>
 </ul>]]></content><author><name>Samuel Sharivker</name></author><summary type="html"><![CDATA[Software DDS GP $400 one time Shows what happens to teeth because of decay. Shows different conditions and how they are treated. Uses realistic images of X-rays and the mouth in order to be accurate. Allows you to create custom treatment plans. Available on iPhone and iPad.]]></summary></entry></feed>
