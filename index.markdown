@@ -1,6 +1,6 @@
 ---
 layout: home
-background: '/img/mouth.jpg'
+background: '/img/mouth.jpeg'
 ---
 
 Dentistry is a branch of medicine that deals with teeth, gums and the mouth and has been around since the ancient Egyptians (7500 BC).  Dentistry uses technology to provide better patient care and is constantly changing as new advances are being made. This site will examine dental innovations of the past and possible future. Below you can find some important events in Dental History!
