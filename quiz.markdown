@@ -19,7 +19,7 @@ Take this quiz to see if you should consider becoming a dentist. Reload the page
     </label> <br>
     <label>
         <input type="radio" name="q1" data-choice="no">
-        no
+        No
     </label> <br> <br>
     <h3>Do you enjoy providing care for others?</h3>
     <label>
@@ -32,7 +32,7 @@ Take this quiz to see if you should consider becoming a dentist. Reload the page
     </label> <br>
     <label>
         <input type="radio" name="q2" data-choice="no">
-        no
+        No
     </label> <br> <br>
     <h3>Do you work well under pressure?</h3>
     <label>
@@ -87,51 +87,11 @@ Take this quiz to see if you should consider becoming a dentist. Reload the page
         const q4_result = document.querySelector('input[name="q4"]:checked').getAttribute('data-choice');
         const q5_result = document.querySelector('input[name="q5"]:checked').getAttribute('data-choice');
         const result_element = document.getElementById("result");
-        if(q1_result==="yes") {
-            total += 5;
-        }
-        if(q1_result==="sometimes") {
-            total += 2;
-        }
-        if(q1_result==="no") {
-            total += 0;
-        }
-        if(q2_result==="yes") {
-            total += 5;
-        }
-        if(q2_result==="sometimes") {
-            total += 2;
-        }
-        if(q2_result==="no") {
-            total += 0;
-        }
-        if(q3_result==="yes") {
-            total += 5;
-        }
-        if(q3_result==="sometimes") {
-            total += 2;
-        }
-        if(q3_result==="no") {
-            total += 0;
-        }
-        if(q4_result==="yes") {
-            total += 5;
-        }
-        if(q4_result==="sometimes") {
-            total += 2;
-        }
-        if(q4_result==="no") {
-            total += 0;
-        }
-        if(q5_result==="yes") {
-            total += 5;
-        }
-        if(q5_result==="sometimes") {
-            total += 2;
-        }
-        if(q5_result==="no") {
-            total += 0;
-        }
+        total += wordtoPoints(q1_result)
+        total += wordtoPoints(q2_result)
+        total += wordtoPoints(q3_result)
+        total += wordtoPoints(q4_result)
+        total += wordtoPoints(q5_result)
         if(total < 12) {
             result_element.innerText = "Result: You should probably NOT go into dentistry.";
         }
@@ -142,5 +102,16 @@ Take this quiz to see if you should consider becoming a dentist. Reload the page
             result_element.innerText = "Result: You should PROBABLY go into dentistry.";
         }
         result_element.style.display = "block";
+    }
+    function wordtoPoints(word) {
+        if(word==="yes") {
+            return 5;
+        }
+        if(word==="sometimes") {
+            return 2;
+        }
+        if(word==="no") {
+            return 0;
+        }
     }
 </script>

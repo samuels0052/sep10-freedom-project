@@ -79,7 +79,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        <p>Take this quiz to see if you should consider becoming a dentist. Please note this is just for fun and not based on official sources.</p>
+        <p>Take this quiz to see if you should consider becoming a dentist. Reload the page to take the quiz again. Please note this is just for fun and not based on official sources.</p>
 
 <form onsubmit="quiz_form_handle(); return false;">
     <h3>Are you a good communicator?</h3>
@@ -93,7 +93,7 @@
     </label> <br />
     <label>
         <input type="radio" name="q1" data-choice="no" />
-        no
+        No
     </label> <br /> <br />
     <h3>Do you enjoy providing care for others?</h3>
     <label>
@@ -106,7 +106,7 @@
     </label> <br />
     <label>
         <input type="radio" name="q2" data-choice="no" />
-        no
+        No
     </label> <br /> <br />
     <h3>Do you work well under pressure?</h3>
     <label>
@@ -161,51 +161,11 @@
         const q4_result = document.querySelector('input[name="q4"]:checked').getAttribute('data-choice');
         const q5_result = document.querySelector('input[name="q5"]:checked').getAttribute('data-choice');
         const result_element = document.getElementById("result");
-        if(q1_result==="yes") {
-            total += 5;
-        }
-        if(q1_result==="sometimes") {
-            total += 2;
-        }
-        if(q1_result==="no") {
-            total += 0;
-        }
-        if(q2_result==="yes") {
-            total += 5;
-        }
-        if(q2_result==="sometimes") {
-            total += 2;
-        }
-        if(q2_result==="no") {
-            total += 0;
-        }
-        if(q3_result==="yes") {
-            total += 5;
-        }
-        if(q3_result==="sometimes") {
-            total += 2;
-        }
-        if(q3_result==="no") {
-            total += 0;
-        }
-        if(q4_result==="yes") {
-            total += 5;
-        }
-        if(q4_result==="sometimes") {
-            total += 2;
-        }
-        if(q4_result==="no") {
-            total += 0;
-        }
-        if(q5_result==="yes") {
-            total += 5;
-        }
-        if(q5_result==="sometimes") {
-            total += 2;
-        }
-        if(q5_result==="no") {
-            total += 0;
-        }
+        total += wordtoPoints(q1_result)
+        total += wordtoPoints(q2_result)
+        total += wordtoPoints(q3_result)
+        total += wordtoPoints(q4_result)
+        total += wordtoPoints(q5_result)
         if(total < 12) {
             result_element.innerText = "Result: You should probably NOT go into dentistry.";
         }
@@ -216,6 +176,17 @@
             result_element.innerText = "Result: You should PROBABLY go into dentistry.";
         }
         result_element.style.display = "block";
+    }
+    function wordtoPoints(word) {
+        if(word==="yes") {
+            return 5;
+        }
+        if(word==="sometimes") {
+            return 2;
+        }
+        if(word==="no") {
+            return 0;
+        }
     }
 </script>
 
