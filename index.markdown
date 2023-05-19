@@ -221,4 +221,28 @@ Dentistry is a branch of medicine that deals with teeth, gums and the mouth and 
     }
 }
 
+.timeline-container {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.timeline-container.reveal {
+  opacity: 1;
+}
+
 </style>
+<script>
+    function revealOnScroll() {
+    var elements = document.querySelectorAll('.timeline-container');
+    for (var i = 0; i < elements.length; i++) {
+        var element = elements[i];
+        var elementTop = element.getBoundingClientRect().top;
+        var windowBottom = window.innerHeight || document.documentElement.clientHeight;
+        if (elementTop < windowBottom) {
+            element.classList.add('reveal');
+            }
+        }
+    }
+    window.addEventListener('scroll', revealOnScroll);
+
+</script>

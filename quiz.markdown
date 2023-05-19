@@ -104,14 +104,6 @@ Take this quiz to see if you should consider becoming a dentist. Reload the page
         result_element.style.display = "block";
     }
     function wordtoPoints(word) {
-        if(word==="yes") {
-            return 5;
-        }
-        if(word==="sometimes") {
-            return 2;
-        }
-        if(word==="no") {
-            return 0;
-        }
+        return word == "yes" ? 5 : (word == "sometimes" ? 2 : 0);
     }
 </script>
