@@ -5,7 +5,7 @@ description: Should you become a dentist?
 background: '/img/bg-quiz.jpg'
 ---
 
-Take this quiz to see if you should consider becoming a dentist. Please note this is just for fun and not based on official sources.
+Take this quiz to see if you should consider becoming a dentist. Reload the page to take the quiz again. Please note this is just for fun and not based on official sources.
 
 <form onsubmit="quiz_form_handle(); return false;">
     <h3>Are you a good communicator?</h3>
